@@ -1,0 +1,51 @@
+[
+  {
+    "marca": "Ford",
+    "modelo": "EcoSport",
+    "anio": 2021,
+    "color": "Negro",
+    "patente": "ABC123"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2022,
+    "color": "Rojo",
+    "patente": "DEF456"
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Cronos",
+    "anio": 2020,
+    "color": "Blanco",
+    "patente": "GHI789"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Kwid",
+    "anio": 2023,
+    "color": "Gris",
+    "patente": "JKL012"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "anio": 2019,
+    "color": "Azul",
+    "patente": "MNO345"
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Uno",
+    "anio": 2015,
+    "color": "Rojo",
+    "patente": "ABC123"
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Uno",
+    "anio": 2017,
+    "color": "Blanco",
+    "patente": "MNO123"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "clase01",
+  "version": "1.0.0",
+  "description": "clase progamacion node y nmp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanobj/clase01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanobj/clase01/issues"
+  },
+  "homepage": "https://github.com/Juanobj/clase01#readme",
+  "dependencies": {
+    "array-sum": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
